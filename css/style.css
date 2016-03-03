@@ -37,6 +37,12 @@ a.anchor {
     top: -80px;
     visibility: hidden;
 }
+div.center{
+  text-align: center;
+  background-color: #3d3536;
+  color: #a6989a;
+}
+
 
 /* -------------------------------- 
 
@@ -207,7 +213,7 @@ Main components
   text-align: center;
   font-size: 30px;
   font-size: 1.875rem;
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  text-shadow: 2px 2px 2px black;
   color: white;
 }
 .cd-fixed-bg.cd-bg-1 {
@@ -225,6 +231,9 @@ Main components
 }
 .cd-fixed-bg.cd-bg-5 {
   background-image: url("../img/heartstopper.jpg");
+}
+.cd-fixed-bg.cd-bg-6 {
+  background-image: url("../img/spinach salad.jpg");
 }
 @media only screen and (min-width: 768px) {
   .cd-fixed-bg h1, .cd-fixed-bg h2 {
