@@ -20,6 +20,11 @@ html * {
    line-height: 1.428;
 }
 
+.row {
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
 /* style.css */
 * {
    font-size: 16px;
