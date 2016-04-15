@@ -39,10 +39,14 @@ a.anchor {
 }
 div.center{
   text-align: center;
-  background-color: #3d3536;
-  color: #a6989a;
+  /*background-color: #3d3536;*/
+  /*color: #a6989a;*/
 }
 
+div.follow-us img {
+    width:100%;
+    height: 200px;
+}
 
 /* -------------------------------- 
 
