@@ -45,7 +45,7 @@ body, html {
 
 footer{
     width:100%;
-    min-height:100px;    
+    min-height:100px;
     background-color: #222; /* This color gets inverted color or you can add navbar inverse class in html */
 }
 
@@ -79,7 +79,7 @@ div.follow-us img {
 .top-buffer { margin-top:10px; }
 
 
-/* -------------------------------- 
+/* --------------------------------
 
 Modules - reusable parts of our design
 
@@ -538,4 +538,11 @@ Main components
 .content-center {
   margin-left: auto;
   margin-right: auto;
+}
+
+.image-center {
+  display: block;
+  margin: auto;
+  max-width: 350px;
+  max-height: 168px;
 }
